@@ -39,6 +39,9 @@ namespace Exam
                         Console.WriteLine("Bye");
                         Environment.Exit(1);
                         break;
+                    default:
+                        Console.WriteLine("Wrong format.");
+                        break;
                 }
             }
         }
