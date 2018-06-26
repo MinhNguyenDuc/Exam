@@ -1,0 +1,11 @@
+E:\Project\C#\MinhBank\Exam\Exam\bin\Debug\netcoreapp2.1\Exam.deps.json
+E:\Project\C#\MinhBank\Exam\Exam\bin\Debug\netcoreapp2.1\Exam.runtimeconfig.json
+E:\Project\C#\MinhBank\Exam\Exam\bin\Debug\netcoreapp2.1\Exam.runtimeconfig.dev.json
+E:\Project\C#\MinhBank\Exam\Exam\bin\Debug\netcoreapp2.1\Exam.dll
+E:\Project\C#\MinhBank\Exam\Exam\bin\Debug\netcoreapp2.1\Exam.pdb
+E:\Project\C#\MinhBank\Exam\Exam\obj\Debug\netcoreapp2.1\Exam.csprojAssemblyReference.cache
+E:\Project\C#\MinhBank\Exam\Exam\obj\Debug\netcoreapp2.1\Exam.csproj.CoreCompileInputs.cache
+E:\Project\C#\MinhBank\Exam\Exam\obj\Debug\netcoreapp2.1\Exam.AssemblyInfoInputs.cache
+E:\Project\C#\MinhBank\Exam\Exam\obj\Debug\netcoreapp2.1\Exam.AssemblyInfo.cs
+E:\Project\C#\MinhBank\Exam\Exam\obj\Debug\netcoreapp2.1\Exam.dll
+E:\Project\C#\MinhBank\Exam\Exam\obj\Debug\netcoreapp2.1\Exam.pdb

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142c6a89-b91b-46dc-a88a-4684d1bc531d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/controller/AccountController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/entity/Account.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/entity/Transaction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/error/SpringHeroTransactionException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/model/AccountModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/model/DBConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/utility/Hash.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinhBank/MinhBank/view/MainView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringHeroBank/.idea/.idea.SpringHeroBank/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringHeroBank/model/ModelTransaction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/controller/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/controller/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/Debug/netcoreapp2.0/SpringHeroBank.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/SpringHeroBank.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/SpringHeroBank.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/SpringHeroBank.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/SpringHeroBank.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/SpringHeroBank.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/SpringHeroBank.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringHeroBank/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringHeroBank/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-288">
+              <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+              <folding>
+                <marker date="1530015370921" expanded="true" signature="6:92" ph="..." />
+                <marker date="1530015370921" expanded="true" signature="136:2841" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="156:2839" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="253:301" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="337:1268" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="372:1258" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="770:1244" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="1306:1808" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="1456:1798" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="1531:1784" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="1606:1766" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="1847:2207" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="1895:2197" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="2054:2183" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="2249:2833" ph="{...}" />
+                <marker date="1530015370921" expanded="true" signature="2703:2783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <marker date="1530013221571" expanded="true" signature="14:614" ph="{...}" />
+                <marker date="1530013221571" expanded="true" signature="41:612" ph="{...}" />
+                <marker date="1530013221571" expanded="true" signature="159:235" ph="{...}" />
+                <marker date="1530013221571" expanded="true" signature="263:343" ph="{...}" />
+                <marker date="1530013221571" expanded="true" signature="369:451" ph="{...}" />
+                <marker date="1530013221571" expanded="true" signature="510:606" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Exam/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../MinhBank/MinhBank/entity/Account.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Exam/Product.cs" />
+        <option value="$PROJECT_DIR$/Exam/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="250" />
+    <option name="y" value="140" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Exam (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Exam (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Exam" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Exam/bin/Debug/netcoreapp2.1/Exam.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Exam/Exam.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142c6a89-b91b-46dc-a88a-4684d1bc531d" name="Default" comment="" />
+      <created>1530012830411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530012830411</updated>
+      <workItem from="1530012832116" duration="2989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2989000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exam/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <marker date="1530013221571" expanded="true" signature="14:614" ph="{...}" />
+            <marker date="1530013221571" expanded="true" signature="41:612" ph="{...}" />
+            <marker date="1530013221571" expanded="true" signature="159:235" ph="{...}" />
+            <marker date="1530013221571" expanded="true" signature="263:343" ph="{...}" />
+            <marker date="1530013221571" expanded="true" signature="369:451" ph="{...}" />
+            <marker date="1530013221571" expanded="true" signature="510:606" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <marker date="1530015370921" expanded="true" signature="6:92" ph="..." />
+            <marker date="1530015370921" expanded="true" signature="136:2841" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="156:2839" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="253:301" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="337:1268" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="372:1258" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="770:1244" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="1306:1808" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="1456:1798" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="1531:1784" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="1606:1766" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="1847:2207" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="1895:2197" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="2054:2183" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="2249:2833" ph="{...}" />
+            <marker date="1530015370921" expanded="true" signature="2703:2783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
